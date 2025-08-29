@@ -1,0 +1,6 @@
+ollama
+anthropic
+pypdf 
+sentence-transformers
+numpy
+dotenv
